@@ -1,0 +1,8 @@
+@charset "utf-8";
+.dir input[type="radio"] + label{display:block}
+.dir input[type="radio"]{display:none}
+.dir input[type="radio"]:checked + label{
+	font-weight:bolder;
+	background-color:#CFC;
+}
+

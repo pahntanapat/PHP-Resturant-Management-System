@@ -1,0 +1,22 @@
+@charset "utf-8";
+.center{text-align:center}
+.left{text-align:left}
+.floatCenter{margin:5px auto}
+.xx-large{font-size:xx-large}
+.floatBox{
+	position:fixed;
+	padding:5px;
+	top:1em;
+	right:1em;
+	z-index:1;
+}
+#title{
+	font-size:x-large;
+	font-weight:bolder;
+}
+.pageContent{
+	border:thin #090 solid;
+	padding:4px;
+}
+div>label{font-weight:bold}
+
